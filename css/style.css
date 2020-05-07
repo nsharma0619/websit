@@ -1,0 +1,141 @@
+.myrows{
+    border: 3px solid green;
+    padding: 5px;
+}
+
+.mycols{
+    border: 3px solid red;
+}
+.mycontainer{
+    background-color: aqua;
+    border: 3px solid red;
+}
+#topHeader{
+    background-color: ghostwhite;
+    padding: 10px;
+    border: 1px solid #ebebeb;
+}
+#topHeader a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+/* start-footer */
+.full-footer{
+    background-color: #243d4f;
+}
+.top-footer p{
+    color: white;
+}
+.top-footer a{
+    color: white;
+    font-weight: 600;
+}
+.top-footer h3{
+    color: white; 
+}
+.bottom-footer{
+    background-color: #031b2e;
+  }
+  .bottom-footer p{
+    color: white;
+  }
+/* end-footer */
+
+/* start of top-hero-section of home page */
+
+.top-hero-section{
+    background-color: #3498db;
+    color: white;
+}
+
+.top-hero-section a{
+    color: white;
+    font-weight: 600;
+}
+.top-hero-section button{
+    background-color: #084d80;
+    color: white;
+}
+.quality-img{
+    width: 200px;
+}
+
+/* end of top-hero-section */
+
+/* start of fourth section */
+.requirement-section{
+    background-color: #004d80;
+    color: white;
+}
+/* end of fourth section */
+
+
+/* start of fifth section */
+
+ .newsletter{
+    background-color: #004d80;
+    color: white;
+ }
+ .newsletter .form-control{
+     height: 50px;
+     border-color: transparent;
+     border-radius: 20px 0 0 20px;
+ }
+ .newsletter .btn{
+     min-height: 50px;
+     border-radius: 0 20px 20px 0;
+     background: #243c4f;
+     color: #ffff;
+ }
+
+
+/* end of fifth section */
+
+.client-section{
+    background-color: #cce6ee;
+}
+
+
+/* ..............................end of index.html................................ */
+
+
+/* .........................start of about.html................................... */
+
+
+/* start first section */
+
+
+.aboutus{
+    background-color: #e9ecef;;
+}
+
+
+/* end of first section */
+
+
+/* ..............................end of about.html................................ */
+
+
+
+
+/* .........................start of contact.html................................... */
+
+/* start of address section */
+
+.Address p{
+    font-weight: 600;
+}
+
+/* end of address section */
+
+/* ..............................end of contact.html................................ */
+
